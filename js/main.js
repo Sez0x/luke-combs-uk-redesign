@@ -124,7 +124,7 @@ document.querySelectorAll('form[data-honeypot]').forEach(form => {
     btn.textContent = 'Sending…';
     btn.disabled = true;
     setTimeout(() => {
-      window.location.href = '/thank-you';
+      window.location.href = form.dataset.redirect || 'thank-you/';
     }, 500);
   });
 });
