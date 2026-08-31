@@ -1,6 +1,5 @@
 /* Luke Combs UK redesign design system */
-
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap');
+/* Fonts loaded via <link> in <head> for reliability on Safari/WebKit (see below) */
 
 :root{
   --ink:#f3ede1;
