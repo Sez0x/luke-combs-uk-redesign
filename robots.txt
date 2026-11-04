@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lukecombsuk.com/sitemap.xml
+Sitemap: https://sez0x.github.io/luke-combs-uk-redesign/sitemap.xml
