@@ -148,7 +148,7 @@ def head(p, title, desc, path, og_img="Gallery16-1920.webp", noindex=False, extr
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&amp;family=Inter:wght@400;600;700&amp;display=swap">
-<link rel="stylesheet" href="{p}css/style.css">
+<link rel="stylesheet" href="{p}css/style.css?v=handcraft-1">
 {extra}</head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
